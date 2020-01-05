@@ -2,6 +2,6 @@
 
 Este proyecto nos permite poner en practica los conocimientos de Git.
 
-# Notas
+## Notas
 
 Coloca tus notas.
